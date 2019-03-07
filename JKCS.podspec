@@ -25,6 +25,7 @@ s.source = { :git => "https://github.com/zjkuang/JKCS.git",
 
 # 7
 s.framework = "UIKit"
+s.framework = "AVKit"
 # s.dependency 'Alamofire', '~> 4.7'
 # s.dependency 'MBProgressHUD', '~> 1.1.0'
 
